@@ -6,7 +6,6 @@ package HomeWork_02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.web.ServerProperties;
 
 @SpringBootApplication
 public class HomeWork02Application {
